@@ -1,6 +1,6 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Govind Kumar Jha</h1>
-<h1 align="center">Currently Working as an Instructor and Product Engineer at Coding Blocks</h1>
+<h1 align="center">Currently working as an Instructor and Product Engineer at Coding Blocks</h1>
 <h3 align="center">A passionate Web Developer and C++ Programmer</h3>
 
 <!-- - 🔭 I’m currently working on  -->
