@@ -1,23 +1,116 @@
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Govind Kumar Jha</h1>
-<h1 align="center">Currently working as an Instructor and Product Engineer at Coding Blocks</h1>
-<h3 align="center">A passionate Web Developer and C++ Programmer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Govind%20Kumar%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- - 🔭 I’m currently working on  -->
+<h2 align="center">🚀 MERN Stack Instructor | Product Engineer | Full Stack Developer</h2>
 
-- 🌱 Currently learning **MERN STACK**
-
-- 📫 How to reach me **govindkumarjha2017@gmail.com**
-
-- ⚡ Fun fact **I am Funny xD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/govindjha2017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/govindjha2017/" height="30" width="40" /></a>
-<a href="https://leetcode.com/goviindjha07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Govind" height="30" width="40" /></a>
- 
+<p align="center">
+Passionate about building scalable web applications, teaching software development, and solving real-world engineering problems.
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Currently working as **Instructor & Product Engineer @ Coding Blocks**
+- 🌱 Exploring **System Design, .NET, and Scalable Backend Architectures**
+- 🏗 Building Full Stack Applications using the **MERN Stack**
+- 🎯 Goal: Join a top Product-Based Company as a Software Engineer
+- 📚 Teaching MERN Stack, DSA, OOPs, Design Patterns & System Design
+- ⚡ Fun Fact: I love simplifying complex technical concepts
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/govindjha2017/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://leetcode.com/goviindjha07/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"/>
+</a>
+
+<a href="mailto:govindkumarjha2017@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Trained hundreds of students in MERN Stack Development
+- 🚀 Built multiple Full Stack Applications
+- 📖 Mentor for DSA, System Design & Backend Development
+- 💻 Strong foundation in C++, JavaScript, Node.js & MongoDB
+
+---
+
+## 🔥 Current Focus
+
+```javascript
+const govind = {
+  role: "Instructor & Product Engineer",
+  techStack: ["MongoDB", "Express", "React", "Node.js"],
+  learning: [".NET", "System Design", "Microservices"],
+  goal: "Become a Top Product-Based Software Engineer"
+};
+```
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
