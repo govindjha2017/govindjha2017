@@ -63,7 +63,7 @@ My focus is on helping students understand **how real-world software is designed
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goviindjha07&show_icons=true&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=goviindjha2017&show_icons=true&hide_border=true&count_private=true" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=goviindjha2017&hide_border=true" height="170"/>
 
